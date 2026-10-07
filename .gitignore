@@ -1,0 +1,16 @@
+# Engine & Build
+[Bb]in/
+[Oo]bj/
+
+# IDE (JetBrains Rider)
+.idea/
+*.user
+
+# SQLite
+*.db
+*.db-journal
+*.sqlite
+
+# OS cache
+.DS_Store
+Thumbs.db
